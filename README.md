@@ -11,7 +11,7 @@ This repository contains a simple yet functional calculator built using React. T
 #### How to Get Started:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/react-calculator-app.git
+   https://github.com/pratheekv39/Calculator-App-ReactJs.git
    ```
 2. **Install Dependencies:**
    Navigate to the project directory and install the necessary dependencies:
